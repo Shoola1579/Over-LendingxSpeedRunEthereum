@@ -173,7 +173,7 @@ yarn vercel
 - **Leverage Trading**: Borrow assets to increase position sizes
 - **Tax Optimization**: Access funds without triggering taxable sale events
 
-## 🔗 Links
+## 🔗 UI
 
 - [SpeedRunEthereum Challenge](https://speedrunethereum.com/challenge/over-collateralized-lending)
 - [Live Demo](https://overlending-oact2d27i-einarmigs-projects.vercel.app)
